@@ -1,0 +1,1 @@
+https://www.mirrorservice.org/sites/sourceware.org/pub/pthreads-win32/
